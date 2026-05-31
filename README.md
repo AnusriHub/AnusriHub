@@ -20,6 +20,6 @@ I’m a Computer Science student actively sharpening my problem-solving skills t
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
