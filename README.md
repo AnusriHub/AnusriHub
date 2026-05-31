@@ -1,7 +1,6 @@
 # 💫 About Me:
 I’m a Computer Science student actively sharpening my problem-solving skills through consistent practice on LeetCode and GeeksforGeeks.<br>I focus on mastering Data Structures and Algorithms in Java to build strong coding fundamentals.<br>I’m also working on Full Stack Development using Java, Spring Boot, and React by building real-world projects.<br>Alongside this, I’m exploring Generative AI and modern development tools to stay aligned with industry trends.<br>                                       <br>                                      <b> Fun fact: I can spend hours optimizing a single problem just to make my solution cleaner and faster 😄</b>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/anusri-ramesh-2a482b323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anusri.naasai@gmail.com)
 
