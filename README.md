@@ -28,6 +28,7 @@ I’m a Computer Science student actively sharpening my problem-solving skills t
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/q7xCxZ4AX0?theme=dark&font=baloo&ext=contest)
+
 [![50 Days Badge](https://img.shields.io/badge/LeetCode-50%20Days%20Streak-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/medal/?showImg=0&id=10344261&isLevel=false)
 
 # 📊 GitHub Stats:
